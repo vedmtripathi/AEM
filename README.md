@@ -47,11 +47,11 @@ Embed and Dependencies
 
 Creating Page Component
 -----------------------
-- Added Page template and Page Component
+- Added Page template and Page Component (HTML and JSP)
 - Added Content Page
 
-Transitive Dependency
----------------------
+Transitive Addition
+-------------------
 - Possible for Dependencies
 - Not Possible for Embed (only one Level)
 
