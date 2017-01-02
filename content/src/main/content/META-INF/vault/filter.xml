@@ -2,4 +2,5 @@
 <workspaceFilter version="1.0">
     <filter root="/apps/clientlibs"/>
     <filter root="/etc/clientlibs/aem"/>
+    <filter root="/content/clientlibs"/>
 </workspaceFilter>
