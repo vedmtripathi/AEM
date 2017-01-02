@@ -5,7 +5,7 @@
 "use strict";
 
 ;(function($){
-    var Clientlib = ClientLib || {};
+    window.clientLib = window.clientLib || {};
 
-    Clientlib.print("Hello World");
+    clientLib.print("Hello World");
 })(jQuery);
