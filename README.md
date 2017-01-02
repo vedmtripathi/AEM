@@ -57,6 +57,7 @@ Transitive Addition
 
 Multiple Clientlibs with same Categories
 ----------------------------------------
+- Use when adding component specific Clientlib
 
 ClientLibs in Apps Folder
 -------------------------
