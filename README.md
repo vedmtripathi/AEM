@@ -39,3 +39,8 @@ Creating First Clientlib
 - Create cq:ClientLibraryFolder under your Folder.
 - Add Clientlib Files.
 - Edit filter.xml.
+
+Embed and Dependencies
+----------------------
+- Creating Depedencies and Embed Clientlibs
+- Difference between the output.
