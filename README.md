@@ -62,8 +62,10 @@ Multiple Clientlibs with same Categories
 ClientLibs in Apps Folder
 -------------------------
 
-Cleaning Clientlibs Cache
--------------------------
+Dumplibs Console (Client Library)
+---------------------------------
+- Cleaning Clientlibs Cache
+- Finding Clientlib by Category
 
 Minification
 ------------
