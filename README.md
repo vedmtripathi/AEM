@@ -31,3 +31,11 @@ The CRX host and port can be specified on the command line with:
 mvn -Dcrx.host=otherhost -Dcrx.port=5502 <goals>
 
 
+
+Creating First Clientlib
+------------------------
+
+- Create sling:Folder under /etc/clientlibs
+- Create cq:ClientLibraryFolder under your Folder.
+- Add Clientlib Files.
+- Edit filter.xml.
