@@ -52,12 +52,14 @@ Creating Page Component
 
 Transitive Dependency
 ---------------------
-- In case of Dependencies
-- In case of Embed
+- Possible for Dependencies
+- Not Possible for Embed (only one Level)
 
 Multiple Clientlibs with same Categories
 ----------------------------------------
 
+ClientLibs in Apps Folder
+-------------------------
 
 Cleaning Clientlibs Cache
 -------------------------
