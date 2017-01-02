@@ -5,7 +5,7 @@
 "use strict";
 
 ;(function($){
-    var Clientlib = ClientLib || {
+    window.clientLib = window.clientLib || {
             printHello: function() {
                 console.log("Hello World");
             },
