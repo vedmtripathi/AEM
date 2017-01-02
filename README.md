@@ -44,3 +44,8 @@ Embed and Dependencies
 ----------------------
 - Creating Depedencies and Embed Clientlibs
 - Difference between the output.
+
+Creating Page Component
+-----------------------
+- Added Page template and Page Component
+- Added Content Page
