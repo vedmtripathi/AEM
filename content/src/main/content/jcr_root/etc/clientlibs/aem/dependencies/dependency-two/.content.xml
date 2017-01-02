@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:ClientLibraryFolder"
-    categories="[clientlibs.example.dependencies.one]"
-    dependencies="[clientlibs.example.dependencies.two]"/>
+    categories="[clientlibs.example.dependencies.two]"
+    dependencies="[clientlibs.example.dependencies.three]"/>

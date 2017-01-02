@@ -49,3 +49,18 @@ Creating Page Component
 -----------------------
 - Added Page template and Page Component
 - Added Content Page
+
+Transitive Dependency
+---------------------
+- In case of Dependencies
+- In case of Embed
+
+Multiple Clientlibs with same Categories
+----------------------------------------
+
+
+Cleaning Clientlibs Cache
+-------------------------
+
+Minification
+------------
