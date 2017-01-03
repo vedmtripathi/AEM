@@ -67,5 +67,5 @@ Dumplibs Console (Client Library)
 - Cleaning Clientlibs Cache
 - Finding Clientlib by Category
 
-Minification
-------------
+Minification & Channels
+-----------------------
