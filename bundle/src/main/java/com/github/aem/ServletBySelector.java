@@ -24,7 +24,7 @@ import java.io.IOException;
  * Created by shabhushan on 1/23/2017.
  *
  * Call this Servlet using following Path
- * http://localhost:4502/content/clientlibs.selectorservlet.sample
+ * http://localhost:4502/content/clientlibs/doesNotExist.selectorservlet.sample
  *
  * This works because Servlet is registered with sling/servlet/default and the request selector and extension matches
  * what's required to invoke the servlet.
