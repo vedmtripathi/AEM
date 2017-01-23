@@ -15,7 +15,7 @@ import java.io.IOException;
 @Component(label = "Servlet - By Resource Type")
 @Service(Servlet.class)
 @Properties({
-        @Property(name = "sling.servlet.resourceTypes", value="clientlibs/servlet"),
+        @Property(name = "sling.servlet.resourceTypes", value="/apps/clientlibs/servlet"),
         @Property(name = "sling.servlet.methods", value="GET"),
         @Property(name = "sling.servlet.extensions", value="sample")
 })
