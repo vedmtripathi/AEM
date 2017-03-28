@@ -1,9 +1,15 @@
 /**
  * Created by Shashi Bhushan on 1/2/2017.
+ *
+ * Transitive Embed ClientLib Three
  */
 
 "use strict";
 
 ;(function($){
-    console.log("Embed: Transitive Embed Three");
+    window.clientLib = window.clientLib || {
+            printHello: function() {
+                console.log("Embed: Transitive Embed Three");
+            }
+        };
 })(jQuery);
